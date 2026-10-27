@@ -2,9 +2,9 @@
 
 个人开发工作区，使用 **Git + VS Code + GitHub (SSH)** 协作开发。
 
-- 作者: houcky
+- 账号: alex201206
 - 默认分支: `main`
-- 远程: `git@github.com:houcky/code.git`
+- 远程: `git@github.com:alex201206/code.git`
 
 ## 常用命令
 - 提交: `git add .` → `git commit -m "说明"`
